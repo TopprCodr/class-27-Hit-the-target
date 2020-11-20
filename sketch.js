@@ -1,5 +1,6 @@
 
 var player;
+var target;
 var edges;
 
 function setup() {
